@@ -1,15 +1,15 @@
-## Oi, me chamo Demétrios Reis! ⚡ 
+## Hi, my name is Demétrios Reis! ⚡ 
 
-Sou engenheiro de computação, graduado na [@UfalOficial](https://twitter.com/UfalOficial), sou apaixonado por tecnologia 🔭, natureza 🌱 e esportes!
+I'm a computer engineer,university graduate [@UfalOficial](https://twitter.com/UfalOficial), I'm passionate about technology 🔭, nature 🌱 and sports!
 
-Tenho muito interesse em me desenvolver cada vez mais em análise de dados e tópicos sobre aprendizado de máquina!
+I am very interested in developing myself more and more in data analysis and machine learning topics!
 
-💬 Você pode falar comigo pelo: demetriosreis1@gmail.com 
+💬 You can talk to me through: demetriosreis1@gmail.com 
 
-Você pode acompanhar minhas postagens pelo: [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/demetrios-reis/)
+You can follow my posts at: [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/demetrios-reis/)
 
 
-## Minhas estatísticas no GitGub: 
+## My stats on GitGub: 
 
 <p align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
