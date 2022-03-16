@@ -4,10 +4,9 @@ I'm a computer engineer,university graduate [@UfalOficial](https://twitter.com/U
 
 I am very interested in developing myself more and more in data analysis and machine learning topics!
 
-💬 You can talk to me through: demetriosreis1@gmail.com 
+💬 You can talk to me through: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kbcs2@cin.ufpe.br)](mailto:demetriosreis1@gmail.com )
 
-You can follow my posts at: [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/demetrios-reis/)
-
+You can follow my posts at: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/demetrios-reis//)](https://www.linkedin.com/in/demetrios-reis/)
 
 ## My stats on GitGub: 
 
