@@ -1,6 +1,6 @@
 ## Hi, my name is Demétrios Reis! ⚡ 
 
-I'm a computer engineer,university graduate [@UfalOficial](https://twitter.com/UfalOficial), I'm passionate about technology 🔭, nature 🌱 and sports!
+I'm a computer engineer, graduated at [@UfalOficial](https://twitter.com/UfalOficial) University, I'm passionate about technology 🔭, nature 🌱 and sports!
 
 I am very interested in developing myself more and more in data analysis and machine learning topics!
 
