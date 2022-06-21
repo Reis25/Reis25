@@ -4,14 +4,14 @@ I'm a computer engineer, graduated at [@UfalOficial](https://twitter.com/UfalOfi
 
 I am very interested in developing myself more and more in data analysis and machine learning topics!
 
-Recently I worked with data analysis and topics related to Time Series, Statistics, Information Theory, and Machine Learning. About tools I like to use: 
+ I work in the line of research: Analysis and Characterization of photovoltaic systems. Recently I worked with data analysis and topics related to Time Series, Statistics, Information Theory, and Machine Learning. About tools I like to use: 
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="42" alt="linux logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" width="42" alt="docker logo"  />
    <div> 
 
-I like so much to learn  and to use: 
+In the search for problem-solving, I like so much to learn and to use: 
 
 ###
 <div align="left">
@@ -19,7 +19,8 @@ I like so much to learn  and to use:
    <!-- 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="42" alt="c logo"  />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" height="30" width="42" alt="sql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" width="42" alt="jupyter logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" width="42" alt="r logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" width="42" alt="php logo"  />
