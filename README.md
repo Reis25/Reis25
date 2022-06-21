@@ -20,7 +20,6 @@ In the search for problem-solving, I like so much to learn and to use:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="42" alt="c logo"  />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" height="30" width="42" alt="sql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" width="42" alt="jupyter logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" width="42" alt="r logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" width="42" alt="php logo"  />
