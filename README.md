@@ -4,9 +4,9 @@ I'm a computer engineer, graduated at [@UfalOficial](https://twitter.com/UfalOfi
 
 I am very interested in developing myself more and more in data analysis and machine learning topics!
 
- I work in the line of research: Analysis and Characterization of photovoltaic systems. Recently I worked with data analysis and topics related to 
+ I work in the line of research: Analysis and Characterization of photovoltaic systems. Recently I worked with data analysis and topics 
  
- Time Series, Statistics, Information Theory, and Machine Learning. About tools I like to use: 
+ related to Time Series, Statistics, Information Theory, and Machine Learning. About tools I like to use: 
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="42" alt="linux logo"  />
